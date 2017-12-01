@@ -8,7 +8,7 @@ This is my 360 project
 
 Camera Effects
 
-This is mu Camera Effects project.
+This is my Camera Effects project.
 
 ![Jahir](https://github.com/Ascencio21/Ascencio21.github.io/blob/master/Jahir.PNG?raw=true "Optional Title")
 
